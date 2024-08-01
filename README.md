@@ -2,4 +2,5 @@
 
 ## markdown test field
 
-** fat-text **
+Проверка переноса
+строки
