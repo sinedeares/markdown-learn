@@ -2,4 +2,4 @@
 
 ## markdown test field
 
-*** fat-text ***
+** fat-text **
