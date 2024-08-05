@@ -1,11 +1,11 @@
-# MarkDown
+# Markdown
 
-**MarkDown** - это лёгкий и простой в освоении язык разметки, который позволяет форматировать  текст с помощью нескольких символов. Создан в 2004 году Джоном Грубером и Аароном Шварцем.
+**Markdown** - это лёгкий и простой в освоении язык разметки, который позволяет форматировать  текст с помощью нескольких символов. Создан в 2004 году Джоном Грубером и Аароном Шварцем.
 
 ------------------------------------
 ## Где используется Markdown
 
-* **README** файлы в Системы управления проектами и кодом: **GitHub**, **GitLab** и тп;
+* *README* файлы в Системы управления проектами и кодом: **GitHub**, **GitLab** и тп;
 * Техническая документация;
 * Мессенджеры и соцсети: **Viber**, **Teleegram** и тп;
 * Приложения для заметок: **Evernote**, **Medium** и тп;
@@ -22,7 +22,7 @@
   * Kramdown и Redcarpet для Ruby.
 
  -----------------------------------------
- ## Почему стоит использовать именно MarkDown?
+ ## Почему стоит использовать именно Markdown?
 
  
   
@@ -92,7 +92,7 @@ Markdown
 ### Дополнительная информация
 
 * [Официальный сайт Markdown](https://daringfireball.net/projects/markdown/)
-* [Введение в MarkDown](https://ru.markdown.net.br/nachinaya/ "Введение в MarkDown")
+* [Введение в Markdown](https://ru.markdown.net.br/nachinaya/ "Введение в MarkDown")
 * [Markdown на Wikipedia](https://ru.wikipedia.org/wiki/Markdown "Markdown")
 * [Использование Markdown в Azure DevOps](https://learn.microsoft.com/ru-ru/azure/devops/project/wiki/markdown-guidance?view=azure-devops "Использование Markdown в Azure DevOps")
 
