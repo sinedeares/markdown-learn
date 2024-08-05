@@ -6,9 +6,10 @@
 ## Где используется Markdown
 
 * **README** файлы в Системы управления проектами и кодом: **GitHub**, **GitLab** и тп;
+* Техническая документация;
 * Мессенджеры и соцсети: **Viber**, **Teleegram** и тп;
 * Приложения для заметок: **Evernote**, **Medium** и тп;
-* Wiki-статьи и так далее.
+* Wiki-статьи, базы знаний и так далее.
 
 -----------------------------------------
 ## Инструменты для работы
@@ -19,6 +20,11 @@
   * Mistune и MarkDown2 дл Python;
   * Marked и Showdown для JS;
   * Kramdown и Redcarpet для Ruby.
+
+ -----------------------------------------
+ ## Почему стоит использовать именно MarkDown?
+
+ 
   
 Проверка переноса  
 строки  
@@ -82,6 +88,12 @@ Markdown
 - [x] Выполненная задача
 - [x] Еще одна выполненная задача
 
+----------------------------------------------------------------------------
+### Дополнительная информация
 
+* [Официальный сайт Markdown](https://daringfireball.net/projects/markdown/)
+* [Введение в MarkDown](https://ru.markdown.net.br/nachinaya/ "Введение в MarkDown")
+* [Markdown на Wikipedia](https://ru.wikipedia.org/wiki/Markdown "Markdown")
+* [Использование Markdown в Azure DevOps](https://learn.microsoft.com/ru-ru/azure/devops/project/wiki/markdown-guidance?view=azure-devops "Использование Markdown в Azure DevOps")
 
 
